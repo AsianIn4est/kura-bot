@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="kura-bot:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/kura_bot_jar</output-path>
-    <root id="archive" name="kura-bot.jar">
-      <element id="module-output" name="kura-bot" />
-    </root>
-  </artifact>
-</component>
